@@ -7,7 +7,7 @@ download from https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe
 ```
 ### Step 2- Install Venv Wrapper
 ```
-pip install virtualenvwrapper
+pip install virtualenvwrapper-win
 ```
 ### Step 3- Create venv 
 ```
@@ -20,7 +20,7 @@ workon namewish
 
 ### Step 5- Install necessary packages
 ```
-pip install requirements.txt
+pip install -r requirements
 ```
 ### Step 6- Run the project
 ```
